@@ -11,3 +11,5 @@
 
 
 - 💬 Feel free to raise an issue if you have any questions
+
+[![HWzmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=HWzmy)](https://github.com/HWzmy/)

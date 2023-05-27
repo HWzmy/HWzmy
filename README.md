@@ -7,7 +7,7 @@
 - 📈 I am working hard to learn computer courses
 
 
-- ❤️ I like the direction of artificial intelligence
+- ❤️ I like the direction of AI
 
 
 - 💬 Feel free to raise an issue if you have any questions
